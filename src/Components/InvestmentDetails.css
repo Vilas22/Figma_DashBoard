@@ -1,0 +1,33 @@
+.investor-details-container {
+    padding: 20px;
+}
+
+.breadcrumbs {
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    color:'red';
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.card-header {
+    margin-bottom: 20px;
+}
+
+.card-body .info-item {
+    margin-bottom: 10px;
+}
+
+.info-item h4 {
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.info-item span {
+    color: #666;
+}
